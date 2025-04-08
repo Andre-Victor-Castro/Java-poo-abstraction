@@ -1,5 +1,5 @@
 // Implementation in architectures like Clean Architecture
-public class Main {
+public class App {
     public static void main(String[] args) {
         Employee dev = new Developer("John", 5000, 1000);
         Employee manager = new Manager("Mary", 8000, 1500);
